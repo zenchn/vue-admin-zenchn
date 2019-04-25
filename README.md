@@ -1,6 +1,6 @@
 # vue-admin-zenchn
 
-> 通用的后台管理系统初始化项目
+> Vue后台管理系统目录架构：基于vue-cli2 & webpack3
 
 ## 功能
 - 登录
